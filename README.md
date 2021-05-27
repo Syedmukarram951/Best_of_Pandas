@@ -1,2 +1,2 @@
-# Pandas
+# Best of Pandas
  Pandas
